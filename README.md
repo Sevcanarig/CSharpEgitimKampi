@@ -4,7 +4,7 @@ Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kamp
 
 ---
 
-## 🖨️ Proje 1: Merhaba Dünya!
+## 🖨️ Proje 1: MainSubjects
 Bu projede, konsola yazı yazdırmayı öğrendim. `Console.WriteLine()` komutu ile temel yazdırma işlemlerini keşfettim ve bir C# programının yapısını kavradım.
 
 ---
